@@ -1,3 +1,8 @@
+div{
+    border: 1px solid rgb(255, 255, 255);
+    min-height: 60px;
+    background-color:cyan;
+}
 .operators div {
     -webkit-box-shadow: 0px 1px 4px 0px rgba(255, 255, 255, 0.2);
     box-shadow: 0px 1px 4px 0px rgba(255, 255, 255, 0.2);
